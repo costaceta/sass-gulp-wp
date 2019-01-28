@@ -1,0 +1,15 @@
+{
+  "name": "Provida Medical",
+  "version": "1.0.0",
+  "description": "Gulp automataion for provida medical site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Costa",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  }
+}

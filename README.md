@@ -1,4 +1,4 @@
-# sass-gulp-wp
+# Wp compile sass with gulp 
 
 Boilerplate para compilar o sass no wordpress usando gulp
 
